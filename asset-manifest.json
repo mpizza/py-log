@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/py-log/static/css/main.073c9b0a.css",
+    "main.js": "/py-log/static/js/main.cd19860c.js",
+    "static/js/787.73e92a06.chunk.js": "/py-log/static/js/787.73e92a06.chunk.js",
+    "static/media/logo.svg": "/py-log/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/py-log/index.html",
+    "main.073c9b0a.css.map": "/py-log/static/css/main.073c9b0a.css.map",
+    "main.cd19860c.js.map": "/py-log/static/js/main.cd19860c.js.map",
+    "787.73e92a06.chunk.js.map": "/py-log/static/js/787.73e92a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cd19860c.js"
+  ]
+}
